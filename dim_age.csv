@@ -1,0 +1,22 @@
+﻿age_id;age_group;age_category
+20;35-39;Adult
+21;40-44;Adult
+13;45-49;Adult
+2;50-54;Adult
+3;55-59;Adult
+4;60-64;Adult
+1;0-4;Baby
+12; 05-09 ;Child
+14; 10-14 ;Child
+15;100+;Senior
+5;65-69;Senior
+6;70-74;Senior
+7;75-79;Senior
+8;80-84;Senior
+9;85-89;Senior
+10;90-94;Senior
+11;95-99;Senior
+16;15-19;Teenager
+17;20-24;Teenager
+18;25-29;Young Adult
+19;30-34;Young Adult
